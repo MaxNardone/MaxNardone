@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Max, I am a Master student at University of Surrey.</p>
+<p align="left">My name is Max, I am a Master student in Data Science at University of Surrey.</p>
 
 ###
 
