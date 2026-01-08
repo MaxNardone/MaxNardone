@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate in Data Science, Machine Learning and AI.<br>📚 I'm currently attending an MSc in Data Science.<br>📫 Available at maxnardone3@gmail.com</p>
+<p align="left">Passionate in Data Science, Machine Learning and AI.<br>
 
 ###
 
